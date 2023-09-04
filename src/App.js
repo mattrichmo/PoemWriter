@@ -15,8 +15,8 @@ import './App.css';
 
 function App() {
 	const [book, setBook] = useState({
-		title: 'Mathematics of quantitative finance',
-		description:'Written for STEM students and professionals, this book provides extensive coverage of the mathematics of quantitative finance.',
+		title: 'Love Poems For A broken Heart',
+		description:'Written for the broken hearted, this book is a collection of poems that will help you get through the tough times.',
 		rawOutline:'',
 		chapters:["Example chapter"], // Array of strings containing the names of the chapters
 		agentInfo:'',
